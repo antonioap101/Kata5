@@ -20,7 +20,7 @@ public class PersonCommand implements Command{
         if (person != null){
             return Command.output(200, person.toString());
         } else {
-            return Command.output(404, "Person not fouond!");
+            return Command.output(404, "Person not found!");
         }
     }
 }
