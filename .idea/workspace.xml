@@ -4,16 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f832288a-6524-4dc9-a4b6-dcdc00642319" name="Changes" comment="">
+    <list default="true" id="f832288a-6524-4dc9-a4b6-dcdc00642319" name="Changes" comment="Modified PersonLoader interface and SQLitePersonLoader class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/command/PersonCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/model/PersonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/model/PersonLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/model/SQLitePersonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata5/model/SQLitePersonLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704346264642</updated>
     </task>
+    <task id="LOCAL-00001" summary="Modified PersonLoader interface and SQLitePersonLoader class">
+      <option name="closed" value="true" />
+      <created>1704346520315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704346520315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modified PersonLoader interface and SQLitePersonLoader class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified PersonLoader interface and SQLitePersonLoader class" />
   </component>
 </project>
